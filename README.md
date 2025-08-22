@@ -1,1 +1,1 @@
-## lasso and ridge
+## lasso and ridge regression practice sheet
